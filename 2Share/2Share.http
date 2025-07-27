@@ -1,0 +1,6 @@
+@_2Share_HostAddress = http://localhost:5299
+
+GET {{_2Share_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

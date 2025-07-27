@@ -1,0 +1,57 @@
+﻿# Build results
+bin/
+obj/
+[Ll]og/
+*.log
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.vsp
+*.pdb
+*.dbmdl
+*.bak
+*.cache
+*.sdf
+*.pidb
+*.svclog
+*.userprefs
+
+# IIS Express
+.vsconfig
+.vspscc
+*.psess
+*.vspx
+*.suo
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Npm + Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac/Linux system files
+.DS_Store
+*.swp
